@@ -1,5 +1,6 @@
 streamlit
 boto3
+sagemaker
 numpy
 pandas
 scikit-learn
@@ -8,3 +9,4 @@ matplotlib
 seaborn
 plotly
 yfinance
+shap
