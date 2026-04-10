@@ -1,6 +1,6 @@
 streamlit
 boto3
-sagemaker
+sagemaker==2.232.2
 numpy
 pandas
 scikit-learn
