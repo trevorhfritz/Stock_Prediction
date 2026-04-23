@@ -1,9 +1,0 @@
-streamlit
-boto3
-sagemaker==2.232.2
-numpy
-pandas
-scikit-learn
-joblib
-matplotlib
-shap
